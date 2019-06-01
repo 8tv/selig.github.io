@@ -1,6 +1,9 @@
 body {
-    font-family: sans-serif;
-}
+    background-image: url("https://pp.userapi.com/Jv24DgJfCBh2dWVrtjSv_xgsErYVoZQemBToHw/vW9Qa-lq0ag.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family: none;
+    }
 
 header {
     border: 1px solid #b5b7ba;
@@ -28,7 +31,7 @@ h1 {
 }
 
 h2 {
-    color: #2e353d;
+    color:white;
     font-size: 24px;
     font-weight: 100;
     text-align: center;
