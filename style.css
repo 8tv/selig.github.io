@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
 }
 
-header1 {
+header {
     border: 1px solid #b5b7ba;
     position: fixed;
     border-radius: 40%;
@@ -13,25 +13,7 @@ header1 {
     align-items: center;
 }
 
-header1 a {
-    color: #4d4d4d;
-    font-size: 15px;
-    font-weight: 600;
-    text-decoration: none;
-}
-
-header2 {
-    border: 1px solid #b5b7ba;
-    position: fixed;
-    border-radius: 40%;
-    background-color: #dfdfdf;
-    height: 68px;
-    display: inline-flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-header2 a {
+header a {
     color: #4d4d4d;
     font-size: 15px;
     font-weight: 600;
